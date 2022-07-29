@@ -1,2 +1,0 @@
-# web-uygulamas-
-html-css
